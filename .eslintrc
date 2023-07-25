@@ -125,7 +125,6 @@
       "error",
       "never"
     ],
-    
     //!-google
     "no-cond-assign": "off",
     "no-irregular-whitespace": "error",
